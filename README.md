@@ -1,4 +1,4 @@
-# iOS Build Action
+# iOS Build Action (ad-hoc)
 
 This action build iOS project. (.xcodeproj, .xcworkspace)
 
